@@ -1,0 +1,129 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+#h1{
+    background: rgb(201, 123, 134);
+    color: black;
+    padding: 20px 40px;
+    text-align: center;
+    left: 700px;
+    top: 300px;
+    width: 277px;
+    position: relative;
+    border-radius: 90px;
+}
+.blankSpace{
+    
+    background: black;
+    color: yellowgreen;
+    font-size:20px;
+}
+#h2{
+    background: lightgreen;
+    color: darkgreen;
+    padding: 20px 40px;
+    text-align: center;
+    left: 700px;
+    top: 300px;
+    width: 161px;
+    position: relative;
+    border-radius: 90px;
+}
+#h3{
+    background: lightgreen;
+    color: darkgreen;
+    padding: 20px 40px;
+    text-align: center;
+    left: 700px;
+    top: 300px;
+    width: 160px;
+    position: relative;
+    border-radius: 90px;
+}
+#h4{
+    background: lightgreen;
+    color: darkgreen;
+    padding: 20px 40px;
+    text-align: center;
+    left: 700px;
+    top: 300px;
+    width: 140px;
+    position: relative;
+    border-radius: 90px;
+}
+#h5{
+    background: lightgreen;
+    color: darkgreen;
+    padding: 20px 40px;
+    text-align: center;
+    left: 700px;
+    top: 300px;
+    width: 122px;
+    position: relative;
+    border-radius: 90px;
+}
+.paraAll{
+    text-align: center;
+    background: black;
+    color:lightgreen;
+    font-style: italic;
+    font-size:35px;
+}
+.parallaxone{
+    width:100%;
+    height: 600px;
+    background-image: url("https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-size: 30px;
+}
+
+.parallaxtwo{
+    width:100%;
+    height: 600px;
+    background-image: url("https://images.pexels.com/photos/87452/flowers-background-butterflies-beautiful-87452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.parallaxthree{
+    width:100%;
+    height: 600px;
+    background-image: url("https://images.pexels.com/photos/46216/sunflower-flowers-bright-yellow-46216.jpeg");
+    /* background-image: url(Images/Im2.jpg); */
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.parallaxfour{
+    width:100%;
+    height: 600px;
+    background-image: url("https://images.pexels.com/photos/1405691/pexels-photo-1405691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    
+    /* background-image: url(Images/Img4.jpg); */
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.parallaxfive{
+    width:100%;
+    height: 600px;
+    background-image: url("https://images.pexels.com/photos/696996/pexels-photo-696996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.parallaxsix{
+    width:100%;
+    height: 600px;
+    background-image: url("https://images.pexels.com/photos/1369068/pexels-photo-1369068.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1https://images.pexels.com/photos/1369068/pexels-photo-1369068.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
